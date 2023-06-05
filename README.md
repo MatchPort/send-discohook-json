@@ -20,7 +20,7 @@ Goto Releases and download the "Send-it.zip" file.
 
 6. Now, download the script file and open it using a text editor such as Notepad or Visual Studio Code.
 
-7. Locate the line of code that says `Data {`.
+7. Locate the line of code that says `Data`.
 
 8. Remove the existing data within this section and paste the data you copied from Discohook.
 
